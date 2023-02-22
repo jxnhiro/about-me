@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Hi, I am Kenny!<br>👯 I’m looking to collaborate with regards to data, microservices, full-stack, and a lot more!<br>🌱 I’m currently learning all sorts of programming languages.<br>💬 Ask me in<br>      LinkedIn: https://www.linkedin.com/in/jxnhiro/<br>      Instagram: instagram.com/kennyjinhiro<br>      Email: jxnhiro@gmail.com<br>      And you can reach out to other platforms!<br><br>
+⚡ Hi, I am Kenny!<br>👯 I’m looking to collaborate with regards to data, microservices, full-stack, and a lot more!<br>🌱 I’m currently learning all sorts of programming languages.<br>💬 Ask me in<br>      LinkedIn: https://www.linkedin.com/in/KennyJinhiro/<br>      Instagram: instagram.com/kennyjinhiro<br>      Email: jxnhiro@gmail.com<br>      And you can reach out to other platforms!<br><br>
 
 
 ## 🌐 Socials:
