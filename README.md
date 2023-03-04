@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Kenny Jinhiro 👋</h1>
 <h3 align="center">Kenny is a passionate developer working with full-stack web development, open-source projects, microservices, system designs, DevOps, AIOps, machine learning, and much more.</h3>
 
-- 📫 Reach me at **jxnhiro@gmail.com**
+📫 Reach me at **jxnhiro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kennyjinhiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kennyjinhiro" height="30" width="40" /></a>
-<a href="https://kaggle.com/jxnhiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jxnhiro" height="30" width="40" /></a>
+<a href="https://kaggle.com/kennyjinhiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jxnhiro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
