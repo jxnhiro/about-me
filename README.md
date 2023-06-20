@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kenny Jinhiro 👋</h1>
-<h3 align="center">Kenny is a passionate developer working with full-stack web development, open-source projects, microservices, system designs, DevOps, AIOps, machine learning, and much more.</h3>
+<h3 align="center">Kenny is a developer working with full-stack web development, open-source projects, microservices, system designs, DevOps, AIOps, machine learning, and much more.</h3>
 
 📫 Reach me at **jxnhiro@gmail.com**
 
